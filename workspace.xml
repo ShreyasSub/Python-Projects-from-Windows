@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db6245a6-2a5b-4649-b7d6-9872586a3ab5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f37yIIVI1H8RA9dnNep4pVbN8r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TradingBot/Bot.py" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Bot" type="PythonConfigurationType" factoryName="Python">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\shreyas\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TradingBot" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TradingBot/Bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db6245a6-2a5b-4649-b7d6-9872586a3ab5" name="Default Changelist" comment="" />
+      <created>1595435174475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595435174475</updated>
+      <workItem from="1595435261087" duration="2341000" />
+      <workItem from="1595491186403" duration="5088000" />
+      <workItem from="1595497322550" duration="1240000" />
+      <workItem from="1595514052237" duration="5511000" />
+      <workItem from="1595578804741" duration="4011000" />
+      <workItem from="1595665417059" duration="5167000" />
+      <workItem from="1595750706208" duration="1616000" />
+      <workItem from="1595832655351" duration="12622000" />
+      <workItem from="1595917974199" duration="7633000" />
+      <workItem from="1596006202856" duration="5788000" />
+      <workItem from="1596115817766" duration="3731000" />
+      <workItem from="1596184094030" duration="2454000" />
+      <workItem from="1596266418177" duration="7609000" />
+      <workItem from="1596357199383" duration="4921000" />
+      <workItem from="1596441071285" duration="7645000" />
+      <workItem from="1596529334513" duration="3300000" />
+      <workItem from="1596644329933" duration="3658000" />
+      <workItem from="1596720175763" duration="2606000" />
+      <workItem from="1596787748433" duration="1647000" />
+      <workItem from="1596957395545" duration="6702000" />
+      <workItem from="1597044219777" duration="4967000" />
+      <workItem from="1597130906699" duration="2458000" />
+      <workItem from="1597227482980" duration="4102000" />
+      <workItem from="1597480958224" duration="3145000" />
+      <workItem from="1597564211066" duration="1397000" />
+      <workItem from="1597681619548" duration="1703000" />
+      <workItem from="1597739484422" duration="3429000" />
+      <workItem from="1597825338745" duration="2440000" />
+      <workItem from="1598029067992" duration="1204000" />
+      <workItem from="1598083152856" duration="1189000" />
+      <workItem from="1598190856634" duration="936000" />
+      <workItem from="1600190257043" duration="148000" />
+      <workItem from="1603009291368" duration="601000" />
+      <workItem from="1609449817827" duration="2093000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1200" y="246" key="FileChooserDialogImpl" timestamp="1609451916608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1200" y="246" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1609451916608" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TradingBot$Bot.coverage" NAME="Bot Coverage Results" MODIFIED="1597486865362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TradingBot" />
+    <SUITE FILE_PATH="coverage/untitled1$utils.coverage" NAME="utils Coverage Results" MODIFIED="1595494914073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/untitled1$Bot.coverage" NAME="Bot Coverage Results" MODIFIED="1595496804443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
